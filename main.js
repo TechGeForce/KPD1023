@@ -1,6 +1,7 @@
-world 
-mango
-durian
-rambutan
-hello 
-ohayo
+hello
+apple
+Banana;
+watermellon
+papaya
+ayam
+amir
